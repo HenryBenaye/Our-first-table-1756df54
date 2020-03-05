@@ -1,2 +1,4 @@
+CREATE TABLE planeten (naam VARCHAR (10));
 
- CREATE DATABASE Sterrenstelsel;
+
+ 
